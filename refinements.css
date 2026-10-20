@@ -129,3 +129,20 @@
  .archive-tools{grid-template-columns:1fr 1fr;gap:20px 15px;padding-block:22px}.archive-search{grid-column:1/-1}.archive-tools label{font-size:9px;margin-bottom:9px}.archive-tools input,.archive-tools select{font-size:12px;min-height:48px;padding:11px 9px}.archive-status{padding-block:15px}.archive-status p,.archive-status button{font-size:10px}.archive-entry{grid-template-columns:57px 1fr;gap:15px;padding-block:25px}.archive-date{align-self:start;padding-top:2px}.archive-date>span{font-size:16px}.archive-date>small{font-size:7px;margin-top:7px}.archive-title h2{font-size:25px;line-height:1.25;margin-top:8px}.archive-title .press-category{font-size:7px}.archive-link{grid-column:2;justify-content:flex-start;gap:20px;min-height:36px;font-size:10px}.archive-link>i{width:30px;height:30px;font-size:19px}.archive-source-note{grid-template-columns:1fr;gap:19px;margin-top:35px;padding-top:25px}.archive-source-note>p{font-size:10px}.archive-source-note .line-link{grid-column:1;font-size:10px}.archive-source-note>.eyebrow{font-size:8px}.archive-empty h2{font-size:40px}.archive-empty p{font-size:12px}.page-closing{padding-block:65px}.page-closing .eyebrow{font-size:8px}.page-closing h2{font-size:41px;line-height:1.15}.page-closing .contact-button{font-size:11px;margin-top:32px}
 }
 @media(max-width:360px){.hero{min-height:100svh}.hero-top .logo{width:96px}.hero h1{font-size:40px}.hero-caption .eyebrow{font-size:7px}.hero-description{font-size:11px}.journey-visual{height:340px}.journey-visual-label{font-size:5px}.history-seal{width:70px;height:70px;bottom:40px}.footer-grid{gap:30px 18px}.footer-grid a{font-size:9px}.footer-address>a{font-size:11px}.archive-tools{grid-template-columns:1fr}.archive-search{grid-column:auto}.archive-tools select{font-size:13px}.archive-entry{grid-template-columns:49px 1fr;gap:15px}.archive-title h2{font-size:23px}.inner-intro h1{font-size:46px}.press-opening-copy{grid-template-columns:76px 1fr;gap:18px}.archive-total{font-size:56px}.press-opening-copy>p{font-size:11px}.page-closing h2{font-size:37px}.about-text-grid h2,.purpose-layout h2{font-size:39px}}
+
+/* Mobile art direction: crop only the empty right side of the original workshop photo.
+   A square frame preserves all three faces; portrait cover would remove a colleague. */
+@media(max-width:900px){
+ .hero{display:flex;flex-direction:column;min-height:0}
+ .hero-top{position:relative;inset:auto;order:0;z-index:3;padding-block:25px 20px}
+ .hero-image{position:relative;inset:auto;order:1;aspect-ratio:1/1;margin:0;max-width:none;flex:none;z-index:0}
+ .hero-image img{object-fit:cover;object-position:left top;transform:none!important}
+ .hero-image:after{inset:0;background:linear-gradient(180deg,rgba(15,15,18,.28),rgba(15,15,18,.02) 32%,rgba(22,22,24,.12) 52%,#161618 100%)}
+ .hero-bottom{order:2;z-index:1;margin-top:calc(-1 * clamp(110px,38vw,290px));padding-top:0;padding-bottom:30px;flex:1;justify-content:flex-start}
+ .hero-foot{order:3;z-index:1;padding-top:20px;padding-bottom:28px}
+}
+@media(max-width:650px){
+ .hero-top{padding-top:25px}.hero-image{margin-top:0}
+ .hero-bottom{padding-top:0;padding-bottom:28px}.hero-foot{padding-top:12px;padding-bottom:26px}
+ .hero-image:after{inset:0}
+}
