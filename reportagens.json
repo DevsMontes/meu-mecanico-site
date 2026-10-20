@@ -1,0 +1,432 @@
+[
+  {
+    "id": 1,
+    "title": "5ª palestra",
+    "date": null,
+    "year": null,
+    "kind": "encontros",
+    "url": "https://www.eventbrite.com.br/e/5a-palestra-de-mecanica-para-mulheres-tickets-24785732794",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 2,
+    "title": "Afinidade Sebrae",
+    "date": null,
+    "year": null,
+    "kind": "video",
+    "url": "https://www.youtube.com/watch?v=-a6ZDy7fCTc",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 3,
+    "title": "Sebrae: reencontro",
+    "date": null,
+    "year": null,
+    "kind": "video",
+    "url": "https://www.youtube.com/watch?v=GYGLqkVVLAA#t=237.84",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 4,
+    "title": "Papo de especialistas",
+    "date": null,
+    "year": null,
+    "kind": "video",
+    "url": "https://www.youtube.com/watch?v=xL_WtJ-CWM4",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 5,
+    "title": "Sabrina Sato",
+    "date": null,
+    "year": null,
+    "kind": "video",
+    "url": "https://www.youtube.com/watch?v=CCNEmnKSObE",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 6,
+    "title": "Programa da Sabrina",
+    "date": "23/01/2015",
+    "year": "2015",
+    "kind": "video",
+    "url": "https://www.youtube.com/watch?v=_6wAR7jI4hE",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 7,
+    "title": "4ª palestra",
+    "date": "16/11/2014",
+    "year": "2014",
+    "kind": "encontros",
+    "url": "https://www.youtube.com/watch?v=JWEwvMDE4Tk",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 8,
+    "title": "Encontro",
+    "date": "19/02/2014",
+    "year": "2014",
+    "kind": "video",
+    "url": "http://globotv.globo.com/rede-globo/encontro-com-fatima-bernardes/v/voce-ja-conheceu-uma-mulher-que-e-mecanico-confira/3158546/",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 9,
+    "title": "Bom Dia Brasil",
+    "date": "10/02/2014",
+    "year": "2014",
+    "kind": "video",
+    "url": "http://g1.globo.com/bom-dia-brasil/videos/t/edicoes/v/mulheres-sao-maioria-entre-empreendedores-brasileiros/3136552/",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 10,
+    "title": "TV Oficina Brasil",
+    "date": "17/03/2014",
+    "year": "2014",
+    "kind": "video",
+    "url": "https://www.youtube.com/watch?v=LGTeQP14Cas",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 11,
+    "title": "Oficina Brasil",
+    "date": "12/03/2014",
+    "year": "2014",
+    "kind": "imprensa",
+    "url": "http://oficinabrasil.com.br/oficina-e-um-bom-negocio/3444-oficina-mecanica-voltada-para-o-publico-feminino-faz-sucesso-em-brasilia",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 12,
+    "title": "M de Mulher",
+    "date": "28/01/2014",
+    "year": "2014",
+    "kind": "imprensa",
+    "url": "http://mdemulher.abril.com.br/familia/especial/de-carona-com-elas/mecanica/elas-entendem-tudo-de-carro/",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 13,
+    "title": "Discovery Home & Health",
+    "date": "08/11/2013",
+    "year": "2013",
+    "kind": "video",
+    "url": "https://vimeo.com/82129975",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 14,
+    "title": "Gazeta de Taguatinga",
+    "date": "25/10/2013",
+    "year": "2013",
+    "kind": "imprensa",
+    "url": "http://www.gazetadetaguatinga.com.br/index.php/cidades/item/1151-graxa-e-salto-alto",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 15,
+    "title": "O Globo",
+    "date": "14/10/2013",
+    "year": "2013",
+    "kind": "imprensa",
+    "url": "http://oglobo.globo.com/economia/em-uma-decada-cresce-214-numero-de-mulheres-empreendedoras-10355188",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 16,
+    "title": "3ª palestra",
+    "date": "15/11/2013",
+    "year": "2013",
+    "kind": "encontros",
+    "url": "https://www.youtube.com/watch?v=XdX9BH1gXS4",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 17,
+    "title": "Revista Weekend",
+    "date": "07/10/2013",
+    "year": "2013",
+    "kind": "imprensa",
+    "url": "http://issuu.com/revistaweekend/docs/weekend-199?e=1691987%2F4991072",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 18,
+    "title": "Viver em Brasília",
+    "date": "07/10/2013",
+    "year": "2013",
+    "kind": "imprensa",
+    "url": "http://viverembrasilia.com.br/meu-mecanico-df/",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 19,
+    "title": "DF Record",
+    "date": "07/10/2013",
+    "year": "2013",
+    "kind": "video",
+    "url": "https://www.youtube.com/watch?v=zwjsCV0k9sc",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 20,
+    "title": "JusBrasil",
+    "date": "07/10/2013",
+    "year": "2013",
+    "kind": "imprensa",
+    "url": "http://sebrae-sp.jusbrasil.com.br/noticias/100452315/oficina-mecanica-voltada-para-mulheres-conquista-mercado",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 21,
+    "title": "Secretaria da Mulher",
+    "date": "07/10/2013",
+    "year": "2013",
+    "kind": "imprensa",
+    "url": "http://www.mulher.df.gov.br/noticias/item/2284-secretaria-prestigia-protagonismo-de-brasilienses.html",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 22,
+    "title": "Sebrae Inova",
+    "date": "07/10/2013",
+    "year": "2013",
+    "kind": "reconhecimento",
+    "url": "http://www.uait.blog.br/distrito-federal-e-ouro-no-premio-sebrae-mulher-de-negocios/",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 23,
+    "title": "Empreendedorismo Rosa",
+    "date": null,
+    "year": null,
+    "kind": "imprensa",
+    "url": null,
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "record"
+  },
+  {
+    "id": 24,
+    "title": "Missão à Alemanha",
+    "date": "07/10/2013",
+    "year": "2013",
+    "kind": "reconhecimento",
+    "url": "http://www.fnq.org.br/informe-se/noticias/vencedoras-do-premio-sebrae-mulher-de-negocios-vao-a-alemanha",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 25,
+    "title": "Roberto Justus +",
+    "date": "07/10/2013",
+    "year": "2013",
+    "kind": "video",
+    "url": "http://entretenimento.r7.com/roberto-justus-mais/video/assista-ao-roberto-justus-desta-segunda-feira-2-na-integra-5225bcfe0cf21d9fd44f16fd/",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 26,
+    "title": "Destaque Sebrae",
+    "date": "25/04/2013",
+    "year": "2013",
+    "kind": "reconhecimento",
+    "url": null,
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "record"
+  },
+  {
+    "id": 27,
+    "title": "Pequenas Empresas & Grandes Negócios",
+    "date": "15/04/2013",
+    "year": "2013",
+    "kind": "imprensa",
+    "url": "http://g1.globo.com/economia/pme/noticia/2013/04/oficina-mecanica-do-df-se-especializa-em-atender-mulheres.html",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 28,
+    "title": "Premiação Sebrae",
+    "date": "08/03/2013",
+    "year": "2013",
+    "kind": "reconhecimento",
+    "url": "http://goo.gl/JrALv",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 29,
+    "title": "Programa da Tarde",
+    "date": "06/03/2013",
+    "year": "2013",
+    "kind": "video",
+    "url": "https://www.youtube.com/watch?v=t8xfpC2Mabk",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 30,
+    "title": "TV Record",
+    "date": "06/03/2013",
+    "year": "2013",
+    "kind": "imprensa",
+    "url": "http://goo.gl/pmxLp",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 31,
+    "title": "TV Brasília",
+    "date": "06/03/2013",
+    "year": "2013",
+    "kind": "imprensa",
+    "url": "http://goo.gl/vvC4r",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 32,
+    "title": "Domingo Espetacular",
+    "date": "08/10/2012",
+    "year": "2012",
+    "kind": "imprensa",
+    "url": "http://goo.gl/ND2Vb",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 33,
+    "title": "A Grande Ideia",
+    "date": "15/07/12",
+    "year": "2012",
+    "kind": "video",
+    "url": "http://www.sbt.com.br/sbtvideos/media/ddadc14cb107556f92ba30cd2ca8f0d5/Conheca-oficina-mecanica-para-mulheres.html",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 34,
+    "title": "Sou Mais Eu!",
+    "date": "08/2012",
+    "year": "2012",
+    "kind": "imprensa",
+    "url": "http://ligiagmenezes.files.wordpress.com/2012/08/mecanica.jpg",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 35,
+    "title": "CNT Notícias",
+    "date": "11/05/2012",
+    "year": "2012",
+    "kind": "video",
+    "url": "https://youtu.be/oFlqmMEVoGg",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 36,
+    "title": "Band Cidades",
+    "date": "06/05/2012",
+    "year": "2012",
+    "kind": "imprensa",
+    "url": "http://goo.gl/otMvD",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 37,
+    "title": "DFTV",
+    "date": "21/04/2012",
+    "year": "2012",
+    "kind": "imprensa",
+    "url": "http://goo.gl/imESn",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 38,
+    "title": "Mulheres Antenadas",
+    "date": "04/03/2012",
+    "year": "2012",
+    "kind": "video",
+    "url": "https://www.youtube.com/watch?v=iCTHaZhcT8s",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 39,
+    "title": "Pequenas Empresas & Grandes Negócios",
+    "date": "18/04/2012",
+    "year": "2012",
+    "kind": "imprensa",
+    "url": null,
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "record"
+  },
+  {
+    "id": 40,
+    "title": "Sebrae",
+    "date": "18/04/2012",
+    "year": "2012",
+    "kind": "reconhecimento",
+    "url": null,
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "record"
+  },
+  {
+    "id": 41,
+    "title": "Feira do Empreendedor",
+    "date": "08/10/2011",
+    "year": "2011",
+    "kind": "reconhecimento",
+    "url": "http://blog.df.sebrae.com.br/fe/?p=451",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 42,
+    "title": "Jornal Aqui DF",
+    "date": "08/01/2012",
+    "year": "2012",
+    "kind": "imprensa",
+    "url": "http://issuu.com/gabriellafurquim/docs/qxx04-1610",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  },
+  {
+    "id": 43,
+    "title": "Jornal de Brasília",
+    "date": "02/10/2011",
+    "year": "2011",
+    "kind": "imprensa",
+    "url": "http://www.jornaldebrasilia.com.br/edicaodigital/pages/20111002-jornal/pdf/14.pdf",
+    "source": "https://meumecanicoweb.com.br/reportagens/",
+    "linkState": "historical"
+  }
+]
